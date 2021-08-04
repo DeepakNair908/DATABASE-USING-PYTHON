@@ -38,5 +38,3 @@ conn.commit()
 
 conn.close()
 
-#### To be honest i was in a hurry as my university exams were going on
-#### and it will all be done in a week so i preffered python over C and Java
